@@ -1,2 +1,2 @@
 # LOTM-Visionary-Guide
-A simple GM guide program for LOTM rpg
+A simple GM guide app for LOTM rpg
